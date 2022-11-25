@@ -30,7 +30,7 @@ By running "make time", and extracting the data from the magnified.dat files, th
 
 ![desmos complexity](https://user-images.githubusercontent.com/114067350/203760893-b5481804-7e9c-451c-bc2f-414e4d579598.png)
 
-In this case, Iterative = Blue,  Recursive = Red. Keep in mind that this is not a direct commparison of runtime,
+In this case, Iterative = Blue,  Recursive = Red. Keep in mind that this is not a direct comparison of actual runtime values,
 this is just to show how the runtime changes with every step:
 
 
