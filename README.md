@@ -34,7 +34,7 @@ By running "make time", and extracting the data from the magnified.dat files, th
 In this case, Iterative = Blue,  Recursive = Red.
 
 
-By matching the scatter plots with its respective curves:
+By matching curves to the scatter plot of each method:
 
 ![desmos-time-complex](https://user-images.githubusercontent.com/114067350/203910421-890cf6ba-5d34-4824-91ea-b0c5d1ddde50.png)
 
