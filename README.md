@@ -20,7 +20,8 @@ After using the "time" commands, a pair of .dat files are generated for each fun
 (For example: dataIterative.dat and dataIterativeMagnified.dat)
     
     data*.dat = stores actual runtime up to 40 steps
-    data*Magnified.dat = stores magnified values of actual runtime (Only for time-complexity graph visualization)
+    data*Magnified.dat = stores magnified values of actual runtime 
+    (Only for time-complexity graph visualization)
     
     Note: in the case of dataIterativeMagnified.dat, the data is generated every 1000 steps up to the 50000th step.
     
