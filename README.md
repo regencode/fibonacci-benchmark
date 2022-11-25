@@ -28,11 +28,10 @@ Copy all the values from the Magnified.dat files (delete the last comma) and pas
     
 By running "make time", and extracting the data from the magnified.dat files, this is the scatter plot that I got:
 
-Keep in mind that this is not a direct commparison of runtime, this is just to show how the runtime changes with every step:
-
 ![desmos complexity](https://user-images.githubusercontent.com/114067350/203760893-b5481804-7e9c-451c-bc2f-414e4d579598.png)
 
-In this case, Iterative = Blue,  Recursive = Red.
+In this case, Iterative = Blue,  Recursive = Red. Keep in mind that this is not a direct commparison of runtime,
+this is just to show how the runtime changes with every step:
 
 
 By matching curves to the scatter plot of each method:
