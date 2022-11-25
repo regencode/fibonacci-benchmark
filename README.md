@@ -39,5 +39,5 @@ By matching curves to the scatter plot of each method:
 ![desmos-time-complex](https://user-images.githubusercontent.com/114067350/203910421-890cf6ba-5d34-4824-91ea-b0c5d1ddde50.png)
 
 
-We can conclude that the iterative method has O(n) complexity, as the complexity increases linearly with step number. 
-While the recursive method has O(2^n) complexity, as the complexity increases exponentially with step number.
+We can conclude that the iterative method has O(n) complexity, as the runtime increases linearly with step number. 
+While the recursive method has O(2^n) complexity, as the runtime increases exponentially with step number.
