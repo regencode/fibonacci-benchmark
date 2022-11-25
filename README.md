@@ -14,7 +14,7 @@ Available Makefile commands:
     clear = Clears all generated files (*.o *.out *.exe *.dat)
     
     
-Instructions for time commands:
+# Instructions for checking time complexity:
 
 After using the "time" commands, a pair of .dat files are generated for each function
 (For example: dataIterative.dat and dataIterativeMagnified.dat)
