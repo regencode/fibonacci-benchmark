@@ -22,12 +22,12 @@ timer:
 
 spacei:
 	gcc -o mylib.o -c mylib/mylib.c
-	gcc -o space_iter.out main_b_space_iter.c mylib.o
+	gcc -o space_iter.out main_b_space_iterative.c mylib.o
 	./space_iter.out
 
 spacer:
 	gcc -o mylib.o -c mylib/mylib.c
-	gcc -o space_recur.out main_b_space_recur.c mylib.o
+	gcc -o space_recur.out main_b_space_recursive.c mylib.o
 	./space_recur.out
 
 clear:

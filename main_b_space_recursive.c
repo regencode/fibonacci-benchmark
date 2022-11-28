@@ -4,7 +4,7 @@
 int main(){
 
     while(1){
-        fibRecursive(10000);
+        fibRecursive(50000);
     }
 
     return 0;

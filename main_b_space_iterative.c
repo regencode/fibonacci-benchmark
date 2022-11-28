@@ -4,7 +4,7 @@
 int main(){
 
     while(1){
-        fibIterative(10000);
+        fibIterative(50000);
     }
     
     return 0;
