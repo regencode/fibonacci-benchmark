@@ -43,7 +43,7 @@ By matching curves to the scatter plot of each method:
 We can conclude that the iterative method has O(n) complexity, as the runtime increases linearly with step number. 
 While the recursive method has O(2^n) complexity, as the runtime increases exponentially with step number.
 
-#Checking for space complexity:
+# Checking for space complexity:
 
 In the main_b_space_*.c files are a "forever" loop using while(1). By running those files using spacei (iterative) and spacer (recursive), these files are executed 3 times with different input values (n = 50000 (top), n = 30000, n = 10000 (bottom)).
 I get these processes in the task manager: 
