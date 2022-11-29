@@ -46,7 +46,7 @@ While the recursive method has O(2^n) complexity, as the runtime increases expon
 
 # Checking for space complexity:
 
-In the main_b_space_*.c files are a "forever" loop using while(1). By running those files using spacei (iterative) and spacer (recursive), these files are executed 3 times with different input values (n = 50000 (top), n = 30000, n = 10000 (bottom)).
+In the main_b_space_*.c files are a "forever" loop using while(1). By running those files using spacei (iterative) and spacer (recursive), these files are executed 3 times each with different input values (n = 50000 (top), n = 30000, n = 10000 (bottom)).
 I get these processes in the task manager: 
 
 ![space-complexity multiple times](https://user-images.githubusercontent.com/114067350/204207340-58510cff-0120-4e2f-b5eb-0f6658b903a4.PNG)
