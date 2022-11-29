@@ -55,5 +55,5 @@ We get 2 sets of files, one corresponding to the iterative method, and the other
 
 We can see that, for the iterative method the memory usage does not change much going from n=10000 to n=50000, which shows that the iterative method has a space complexity of O(1)
 
-For the recursive method, the memory usage increases linearly (for example, memory usage is tripled when n goes from 10000 to 30000)
+For the recursive method, the memory usage increases linearly (for example, memory usage is almost tripled when n goes from 10000 to 30000)
 Therefore, the recursive method has a space complexity of O(n).
